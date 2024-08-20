@@ -1,6 +1,6 @@
 # Expo React Native Chat App using OpenAI (An example)
 
-This repository a mobile application built with Expo and React Native. 
+This repository is for a React Native mobile application built with Expo. It is a demo with OpenAI integration.
 
 ![React Native OpenAI](screenshot.png)
 
